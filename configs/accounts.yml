@@ -11,10 +11,3 @@ accounts:
     - (412) 419-3491
     - (915) 382-1932
 
-eurkeka:
-  instance:
-    preferIpAddress: true
-  client:
-    fetchRegistry: true
-    registerWithEureka: true
-    serviceUrl: http://localhost:8070/eureka/
